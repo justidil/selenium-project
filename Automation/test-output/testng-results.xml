@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31679" started-at="2019-01-01T21:40:02Z" finished-at="2019-01-01T21:40:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31679" started-at="2019-01-01T21:40:02Z" finished-at="2019-01-01T21:40:34Z">
+      <class name="TestCases.TestCases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestCases.TestCases@3bfdc050]" name="setup" is-config="true" duration-ms="4805" started-at="2019-01-02T00:40:02Z" finished-at="2019-01-02T00:40:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:TestCases.TestCases@3bfdc050]" name="test_Home_Page_Appear_Correct" duration-ms="1014" started-at="2019-01-02T00:40:07Z" finished-at="2019-01-02T00:40:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+        <test-method status="PASS" signature="test_Logged_In()[pri:0, instance:TestCases.TestCases@3bfdc050]" name="test_Logged_In" duration-ms="3092" started-at="2019-01-02T00:40:08Z" finished-at="2019-01-02T00:40:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Logged_In -->
+        <test-method status="PASS" signature="test_text_is_searched()[pri:0, instance:TestCases.TestCases@3bfdc050]" name="test_text_is_searched" duration-ms="5076" started-at="2019-01-02T00:40:11Z" finished-at="2019-01-02T00:40:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_text_is_searched -->
+        <test-method status="PASS" signature="test_search_results_are_related()[pri:0, instance:TestCases.TestCases@3bfdc050]" name="test_search_results_are_related" duration-ms="3039" started-at="2019-01-02T00:40:16Z" finished-at="2019-01-02T00:40:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_search_results_are_related -->
+        <test-method status="PASS" signature="test_correctly_added_to_favorites()[pri:0, instance:TestCases.TestCases@3bfdc050]" name="test_correctly_added_to_favorites" duration-ms="12189" started-at="2019-01-02T00:40:19Z" finished-at="2019-01-02T00:40:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_correctly_added_to_favorites -->
+        <test-method status="PASS" signature="test_correctly_removed_from_favorites()[pri:0, instance:TestCases.TestCases@3bfdc050]" name="test_correctly_removed_from_favorites" duration-ms="2446" started-at="2019-01-02T00:40:31Z" finished-at="2019-01-02T00:40:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_correctly_removed_from_favorites -->
+      </class> <!-- TestCases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
